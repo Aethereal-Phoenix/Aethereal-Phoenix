@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aethereal-Phoenix
 - 👀 I’m interested in Dungeons and Dragons
-- 🌱 I’m currently learning C#, SQL, Java, and Python
+- 🌱 I’m currently learning C#, HTML, CSS and JavaScript
 
 <!---
 Aethereal-Phoenix/Aethereal-Phoenix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
